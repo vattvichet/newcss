@@ -6,7 +6,22 @@ h1{
 }
 a{
     text-decoration: none;
+
 }
 p{ 
     line-height: 1.5;
+    
+}
+body{
+    background-color: #FCEEDD;
+}
+#signin{
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+    background-color: #FBBC58;
+}
+#gobutton{
+    background-color: rgb(7, 19, 43);
+    color: cornsilk;
 }
