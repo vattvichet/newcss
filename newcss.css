@@ -25,3 +25,13 @@ body{
     background-color: rgb(7, 19, 43);
     color: cornsilk;
 }
+.tag1{
+    background-color: darkgray;
+    color: #15d3ba;
+    font-size: 20px;
+}
+.tag2{
+    background-color: rgb(125, 252, 188);
+    color: #d3156e;
+    font-size: 20px;
+}
