@@ -44,3 +44,11 @@ nav a{
     color:rgba(4, 0, 255, 0.938);
 
 }
+input[type="password"]{
+    color: red;
+    text-decoration: underline;
+}
+input[type="email"]{
+    color: rgba(4, 0, 255, 0.938);
+    
+}
