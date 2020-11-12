@@ -15,15 +15,20 @@ p{
 body{
     background-color: #FCEEDD;
 }
+#signin :hover{
+    background-color: blue;
+}
+
 #signin{
     margin-left: 2%;
     margin-top: 1%;
     text-align: center;
     background-color: #FBBC58;
 }
-#gobutton{
-    background-color: rgb(7, 19, 43);
-    color: cornsilk;
+
+.gobutton :hover{
+    background-color: red;
+    color:blue;
 }
 .tag1{
     background-color: darkgray;
@@ -51,4 +56,26 @@ input[type="password"]{
 input[type="email"]{
     color: rgba(4, 0, 255, 0.938);
     
+}
+.subscribe{
+    background-color: blue;
+    color: wheat;
+    text-align: center;
+}
+.subscribe:hover{
+    background-color: red;
+    color: rgb(61, 5, 87);
+    transform: scale(1.1);
+}
+.subscribe:active{
+   color: slateblue;
+   background-color: springgreen;
+}
+.link{
+    text-align: center;
+    font-size: 24px;
+}
+.link:hover{
+    transform: scale(1.1);
+    text-decoration: underline;
 }
