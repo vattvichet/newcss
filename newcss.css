@@ -8,8 +8,10 @@ a{
     text-decoration: none;
 
 }
-p{ 
+p::first-letter{ 
     line-height: 1.5;
+    color: red;
+
     
 }
 body{
